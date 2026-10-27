@@ -65,4 +65,18 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Verimor is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://verimor.com.tr/
+
+**Areas:** SMS · WhatsApp · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://verimor.com.tr/)
+- [Documentation](https://developer.verimor.com.tr/)
+- [API reference](https://docs.verimor.com.tr/developer/api-reference)
+- [GitHub](https://github.com/verimor)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/verimor/](https://apis.io/providers/verimor/).
